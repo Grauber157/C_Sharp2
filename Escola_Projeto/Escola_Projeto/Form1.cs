@@ -58,11 +58,6 @@ namespace Escola_Projeto
         Aluno aluno = new Aluno();
         Curso curso = new Curso();
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            
-        }
-
         private void label1_Click(object sender, EventArgs e)
         {
 
@@ -101,26 +96,6 @@ namespace Escola_Projeto
             button4.Visible = true;
             button7.Visible = false;
             button8.Visible = true;
-
-        }
-
-        private void listView2_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
-        {
 
         }
 
@@ -225,11 +200,6 @@ namespace Escola_Projeto
             }
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         //Botão Gerenciar Alunos
         private void button3_Click(object sender, EventArgs e)
         {
@@ -246,10 +216,6 @@ namespace Escola_Projeto
             form3.Show();
         }
 
-        private void cadastrarToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 
     public class Aluno

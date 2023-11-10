@@ -57,3 +57,5 @@ C:\Users\elias\Desktop\Escola_Projeto\Escola_Projeto\obj\Debug\Escola_Projeto.cs
 C:\Users\elias\Desktop\Escola_Projeto\Escola_Projeto\obj\Debug\Escola_Projeto.csproj.CopyComplete
 C:\Users\elias\Desktop\Escola_Projeto\Escola_Projeto\obj\Debug\Escola_Projeto.exe
 C:\Users\elias\Desktop\Escola_Projeto\Escola_Projeto\obj\Debug\Escola_Projeto.pdb
+C:\Users\aluno\Desktop\Escola_Projeto\Escola_Projeto\obj\Debug\Escola_Projeto.Form2_1.resources
+C:\Users\aluno\Desktop\Escola_Projeto\Escola_Projeto\obj\Debug\Escola_Projeto.Form3_1.resources

@@ -73,9 +73,7 @@
             this.listView1.Name = "listView1";
             this.listView1.Size = new System.Drawing.Size(542, 284);
             this.listView1.TabIndex = 2;
-            this.listView1.UseCompatibleStateImageBehavior = false;
-            this.listView1.SelectedIndexChanged += new System.EventHandler(this.listView1_SelectedIndexChanged);
-            // 
+            this.listView1.UseCompatibleStateImageBehavior = false;            // 
             // label2
             // 
             this.label2.AutoSize = true;
@@ -114,7 +112,6 @@
             this.listView2.Size = new System.Drawing.Size(542, 284);
             this.listView2.TabIndex = 6;
             this.listView2.UseCompatibleStateImageBehavior = false;
-            this.listView2.SelectedIndexChanged += new System.EventHandler(this.listView2_SelectedIndexChanged);
             // 
             // label3
             // 
@@ -126,7 +123,6 @@
             this.label3.TabIndex = 7;
             this.label3.Text = "Lista de Alunos";
             this.label3.Visible = false;
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4
             // 
@@ -138,7 +134,6 @@
             this.label4.TabIndex = 8;
             this.label4.Text = "Lista de Cursos";
             this.label4.Visible = false;
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // groupBox1
             // 
@@ -187,7 +182,6 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(162, 20);
             this.textBox1.TabIndex = 14;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // button8
             // 
@@ -227,7 +221,6 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
