@@ -50,5 +50,10 @@ namespace Escola_Projeto
 
             }
         }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

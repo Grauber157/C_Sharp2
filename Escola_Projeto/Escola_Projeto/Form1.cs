@@ -63,22 +63,6 @@ namespace Escola_Projeto
             
         }
 
-        //Barras de Menu do Form1
-            //Botão para Entrar Form2
-        private void cadastrarAlunoToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Form2 form2 = new Form2();
-            this.Hide();
-            form2.Show();
-        }
-            //Botão para Entrar Form3
-        private void cadastrarCursoToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Form3 form3 = new Form3();
-            this.Hide();
-            form3.Show();
-        }
-
         private void label1_Click(object sender, EventArgs e)
         {
 
@@ -256,6 +240,13 @@ namespace Escola_Projeto
 
         //Botão Gerenciar Cursos
         private void button4_Click(object sender, EventArgs e)
+        {
+            Form3 form3 = new Form3();
+            this.Hide();
+            form3.Show();
+        }
+
+        private void cadastrarToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
         }
