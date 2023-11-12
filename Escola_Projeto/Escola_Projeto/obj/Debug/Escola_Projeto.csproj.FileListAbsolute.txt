@@ -59,3 +59,5 @@ C:\Users\elias\Desktop\Escola_Projeto\Escola_Projeto\obj\Debug\Escola_Projeto.ex
 C:\Users\elias\Desktop\Escola_Projeto\Escola_Projeto\obj\Debug\Escola_Projeto.pdb
 C:\Users\aluno\Desktop\Escola_Projeto\Escola_Projeto\obj\Debug\Escola_Projeto.Form2_1.resources
 C:\Users\aluno\Desktop\Escola_Projeto\Escola_Projeto\obj\Debug\Escola_Projeto.Form3_1.resources
+C:\Users\elias\Desktop\Escola_Projeto\Escola_Projeto\obj\Debug\Escola_Projeto.Form2_1.resources
+C:\Users\elias\Desktop\Escola_Projeto\Escola_Projeto\obj\Debug\Escola_Projeto.Form3_1.resources

@@ -74,9 +74,13 @@ namespace Escola_Projeto
 
             textBox1.Visible = true;
             textBox2.Visible = false;
+            button3.Text = "Gerenciar Alunos";
             button3.Visible = true;
+            button3.Enabled = true;
             button4.Visible = false;
+            button7.Text = "Pesquisar Alunos";
             button7.Visible = true;
+            button7.Enabled = true;
             button8.Visible = false;
 
         }
@@ -93,9 +97,13 @@ namespace Escola_Projeto
             textBox1.Visible = false;
             textBox2.Visible = true;
             button3.Visible = false;
+            button4.Text = "Gerenciar Cursos";
             button4.Visible = true;
+            button4.Enabled = true;
             button7.Visible = false;
+            button8.Text = "Pesquisar Cursos";
             button8.Visible = true;
+            button8.Enabled = true;
 
         }
 

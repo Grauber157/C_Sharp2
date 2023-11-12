@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Tempo de geração: 20-Out-2023 às 18:30
+-- Tempo de geração: 12-Nov-2023 às 01:14
 -- Versão do servidor: 8.0.31
 -- versão do PHP: 8.0.26
 
@@ -51,7 +51,8 @@ CREATE TABLE IF NOT EXISTS `aluno` (
 INSERT INTO `aluno` (`RA`, `Nome`, `CPF`, `Endereco`, `Telefone`, `Email`, `Curso`, `NotaBim1`, `NotaBim2`, `NotaBim3`, `NotaBim4`, `Media`) VALUES
 ('2', 'ze ruela', '223.456.789-10', 'bbbbbbbb', '11111-1112', '2test@gmail.com', 'Informatica', 7, 8, 7, 8, 7),
 ('1', 'gabriel', '123.456.789-10', 'aaaaaaaaa', '11111-1111', '1test@gmail.com', 'Informatica', 7, 8, 7, 8, 7),
-('3', 'Tio daEsquina', '323.456.789-10', 'ccccccccccccc', '11111-1113', '3test@gmail.com', 'Informatica', 7, 8, 7, 8, 7);
+('3', 'Tio daEsquina', '323.456.789-10', 'ccccccccccccc', '11111-1113', '3test@gmail.com', 'Informatica', 7, 8, 7, 8, 7),
+('1231231', 'jorginho abestado', '123.456.123-44', 'casa do jorginho', '14 12321 13', 'jorginho.com', 'emprendedorismo de pobre', 1, 5, 4, 6, 4);
 
 -- --------------------------------------------------------
 
@@ -74,8 +75,11 @@ CREATE TABLE IF NOT EXISTS `curso` (
 
 INSERT INTO `curso` (`Codigo`, `Nome`, `CargaHoraria`, `Periodo`) VALUES
 ('1', 'Trafico de placa de video', '330', 'integral'),
-('2', 'Empreendedorismo de pobre', '20', 'manha'),
-('3', 'Informatica dos Cria', '3300', 'integral');
+('2', 'Empreendedorismo 2, o retorno', '20', 'manha'),
+('3', 'Informatica dos Cria', '3300', 'integral'),
+('5', 'traquinagem hehhe', '5', 'O dia todo'),
+('4', 'Curso de Operar de ZapZap', '4400', 'integral'),
+('6', 'Como trocar cor do Facebook', '16000', 'EAD');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

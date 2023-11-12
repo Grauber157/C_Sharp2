@@ -19,20 +19,8 @@ namespace Escola_Projeto
             InitializeComponent();
         }
 
-        private void MostrarCadastroCurso()
-        {
+        public int esc { get; set; }
 
-        }
-
-        private void MostrarAtualizacaoCurso()
-        {
-
-        }
-
-        private void MostrarRemocaoCurso()
-        {
-
-        }
 
         //Botão RETORNO para Form1
         private void button1_Click_1(object sender, EventArgs e)
@@ -45,21 +33,24 @@ namespace Escola_Projeto
         //Botão CADASTRAR CURSO
         private void button2_Click_1(object sender, EventArgs e)
         {
-            Form3_1 formMenu = new Form3_1();
+            esc = 1;
+            Form3_1 formMenu = new Form3_1(this);
             this.Hide();
             formMenu.Show();
         }
         //Botão ATUALIZAR CURSO
         private void button3_Click(object sender, EventArgs e)
         {
-            Form3_1 formMenu = new Form3_1();
+            esc = 2;
+            Form3_1 formMenu = new Form3_1(this);
             this.Hide();
             formMenu.Show();
         }
         //Botão DELETAR CURSO
         private void button4_Click(object sender, EventArgs e)
         {
-            Form3_1 formMenu = new Form3_1();
+            esc = 3;
+            Form3_1 formMenu = new Form3_1(this);
             this.Hide();
             formMenu.Show();
         }

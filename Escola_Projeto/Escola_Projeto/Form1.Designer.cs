@@ -69,11 +69,12 @@
             // listView1
             // 
             this.listView1.HideSelection = false;
-            this.listView1.Location = new System.Drawing.Point(230, 145);
+            this.listView1.Location = new System.Drawing.Point(246, 145);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(542, 284);
+            this.listView1.Size = new System.Drawing.Size(526, 284);
             this.listView1.TabIndex = 2;
-            this.listView1.UseCompatibleStateImageBehavior = false;            // 
+            this.listView1.UseCompatibleStateImageBehavior = false;
+            // 
             // label2
             // 
             this.label2.AutoSize = true;
@@ -86,7 +87,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(0, 104);
+            this.button1.Location = new System.Drawing.Point(12, 104);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(110, 60);
             this.button1.TabIndex = 4;
@@ -96,7 +97,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(116, 104);
+            this.button2.Location = new System.Drawing.Point(130, 104);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(110, 60);
             this.button2.TabIndex = 5;
@@ -107,9 +108,9 @@
             // listView2
             // 
             this.listView2.HideSelection = false;
-            this.listView2.Location = new System.Drawing.Point(230, 145);
+            this.listView2.Location = new System.Drawing.Point(246, 145);
             this.listView2.Name = "listView2";
-            this.listView2.Size = new System.Drawing.Size(542, 284);
+            this.listView2.Size = new System.Drawing.Size(526, 284);
             this.listView2.TabIndex = 6;
             this.listView2.UseCompatibleStateImageBehavior = false;
             // 
@@ -151,55 +152,59 @@
             // 
             // button4
             // 
+            this.button4.Enabled = false;
             this.button4.Location = new System.Drawing.Point(47, 152);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(119, 60);
             this.button4.TabIndex = 17;
-            this.button4.Text = "Gerenciar Cursos";
+            this.button4.Text = "Gerenciar ";
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button3
             // 
+            this.button3.Enabled = false;
             this.button3.Location = new System.Drawing.Point(47, 152);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(119, 60);
             this.button3.TabIndex = 16;
-            this.button3.Text = "Gerenciar Alunos";
+            this.button3.Text = "Gerenciar";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(19, 87);
+            this.textBox2.Location = new System.Drawing.Point(25, 95);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(162, 20);
             this.textBox2.TabIndex = 15;
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(19, 87);
+            this.textBox1.Location = new System.Drawing.Point(25, 95);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(162, 20);
             this.textBox1.TabIndex = 14;
             // 
             // button8
             // 
+            this.button8.Enabled = false;
             this.button8.Location = new System.Drawing.Point(47, 19);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(104, 50);
+            this.button8.Size = new System.Drawing.Size(104, 60);
             this.button8.TabIndex = 13;
-            this.button8.Text = "Pesquisar Curso";
+            this.button8.Text = "Pesquisar ";
             this.button8.UseVisualStyleBackColor = true;
             this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // button7
             // 
+            this.button7.Enabled = false;
             this.button7.Location = new System.Drawing.Point(47, 19);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(104, 50);
+            this.button7.Size = new System.Drawing.Size(104, 60);
             this.button7.TabIndex = 12;
-            this.button7.Text = "Pesquisar Aluno";
+            this.button7.Text = "Pesquisar";
             this.button7.UseVisualStyleBackColor = true;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
