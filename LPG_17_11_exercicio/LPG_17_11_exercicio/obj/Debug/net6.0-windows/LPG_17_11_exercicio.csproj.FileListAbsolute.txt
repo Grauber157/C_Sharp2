@@ -1,0 +1,17 @@
+C:\Users\aluno\source\repos\LPG_17_11_exercicio\LPG_17_11_exercicio\bin\Debug\net6.0-windows\LPG_17_11_exercicio.exe
+C:\Users\aluno\source\repos\LPG_17_11_exercicio\LPG_17_11_exercicio\bin\Debug\net6.0-windows\LPG_17_11_exercicio.deps.json
+C:\Users\aluno\source\repos\LPG_17_11_exercicio\LPG_17_11_exercicio\bin\Debug\net6.0-windows\LPG_17_11_exercicio.runtimeconfig.json
+C:\Users\aluno\source\repos\LPG_17_11_exercicio\LPG_17_11_exercicio\bin\Debug\net6.0-windows\LPG_17_11_exercicio.dll
+C:\Users\aluno\source\repos\LPG_17_11_exercicio\LPG_17_11_exercicio\bin\Debug\net6.0-windows\LPG_17_11_exercicio.pdb
+C:\Users\aluno\source\repos\LPG_17_11_exercicio\LPG_17_11_exercicio\obj\Debug\net6.0-windows\LPG_17_11_exercicio.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\LPG_17_11_exercicio\LPG_17_11_exercicio\obj\Debug\net6.0-windows\LPG_17_11_exercicio.Form1.resources
+C:\Users\aluno\source\repos\LPG_17_11_exercicio\LPG_17_11_exercicio\obj\Debug\net6.0-windows\LPG_17_11_exercicio.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\LPG_17_11_exercicio\LPG_17_11_exercicio\obj\Debug\net6.0-windows\LPG_17_11_exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\LPG_17_11_exercicio\LPG_17_11_exercicio\obj\Debug\net6.0-windows\LPG_17_11_exercicio.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\LPG_17_11_exercicio\LPG_17_11_exercicio\obj\Debug\net6.0-windows\LPG_17_11_exercicio.AssemblyInfo.cs
+C:\Users\aluno\source\repos\LPG_17_11_exercicio\LPG_17_11_exercicio\obj\Debug\net6.0-windows\LPG_17_11_exercicio.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\LPG_17_11_exercicio\LPG_17_11_exercicio\obj\Debug\net6.0-windows\LPG_17_11_exercicio.dll
+C:\Users\aluno\source\repos\LPG_17_11_exercicio\LPG_17_11_exercicio\obj\Debug\net6.0-windows\refint\LPG_17_11_exercicio.dll
+C:\Users\aluno\source\repos\LPG_17_11_exercicio\LPG_17_11_exercicio\obj\Debug\net6.0-windows\LPG_17_11_exercicio.pdb
+C:\Users\aluno\source\repos\LPG_17_11_exercicio\LPG_17_11_exercicio\obj\Debug\net6.0-windows\LPG_17_11_exercicio.genruntimeconfig.cache
+C:\Users\aluno\source\repos\LPG_17_11_exercicio\LPG_17_11_exercicio\obj\Debug\net6.0-windows\ref\LPG_17_11_exercicio.dll
